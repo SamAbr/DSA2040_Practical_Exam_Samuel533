@@ -23,7 +23,8 @@ This repository contains solutions for the **DSA2040 Practical Exam**, organized
 - Optimized for **fast aggregations** and **flexible filtering**.
 - Constraints implemented for **data integrity**.
 
-![schema_diagram.png](attachment:42101868-94eb-40ba-9617-4f52361e87bd.png)
+<img width="821" height="721" alt="schema_diagram" src="https://github.com/user-attachments/assets/16cb39e7-c200-41d8-b349-cf1128faeeb8" />
+
 
 ---
 
@@ -44,9 +45,11 @@ This repository contains solutions for the **DSA2040 Practical Exam**, organized
 - **Seasonality**: Q4 peaks due to holiday shopping
 - **Regional Trends**: UK dominates all quarters; smaller markets show steady but lower sales
 
- ![top_countries_bar.png](attachment:f508f44a-1638-42c1-90fb-b13add980317.png) 
- ![monthly_sales_trend.png](attachment:5f2b2612-4661-45c7-8d32-28575670a333.png)
- ![sales_by_quarter.png](attachment:f245f4b5-b577-4866-9b26-6bfac139ff57.png)
+ <img width="3572" height="1767" alt="monthly_sales_trend" src="https://github.com/user-attachments/assets/c1339750-28c3-4c1f-8989-bc3f98544ba7" />
+ <img width="4172" height="2066" alt="sales_by_quarter" src="https://github.com/user-attachments/assets/fde1444d-ca79-4b15-8e02-73815b2834eb" />
+<img width="3572" height="1766" alt="top_countries_bar" src="https://github.com/user-attachments/assets/7b20fbd4-c76f-4115-9fdc-fd5f6ace131a" />
+
+
 
 ---
 
@@ -61,9 +64,9 @@ This repository contains solutions for the **DSA2040 Practical Exam**, organized
   - Pairplots show clear separability of *Setosa*
   - Strong correlation between petal length & width
 
-![iris_pairplot.png](attachment:5ad254ab-9105-431a-b5b2-0873324f01cd.png)
-![iris_correlation_heatmap.png](attachment:beb6400f-5f1a-43bc-9c3f-dc4e76c041a4.png)  
-![iris_boxplots.png](attachment:bf52ae6b-03ce-47d6-a6f6-41635aa6eb45.png)
+<img width="3335" height="3065" alt="iris_pairplot" src="https://github.com/user-attachments/assets/65146af6-a572-4e40-a1c4-3210029cdd41" />
+<img width="1931" height="1769" alt="iris_correlation_heatmap" src="https://github.com/user-attachments/assets/557fa1a1-5d73-407d-914d-1d8c3816dd63" />
+<img width="2967" height="1766" alt="iris_boxplots" src="https://github.com/user-attachments/assets/3284ea0f-ff77-49f3-b062-7daa66ff6984" />
 
 ---
 
@@ -75,8 +78,8 @@ This repository contains solutions for the **DSA2040 Practical Exam**, organized
   - Overlap between *Versicolor* and *Virginica*
   - Elbow method confirmed k=3
 
-![elbow_curve.png](attachment:035b0d6b-543c-43ba-990d-5ee5f6a3a205.png)  
-![cluster_visualization.png](attachment:cae63cee-7004-4be4-b3e7-4c5bc79b530b.png)
+<img width="2371" height="1474" alt="elbow_curve" src="https://github.com/user-attachments/assets/e7af7761-4ad8-4c21-b4fb-ef5c1df06698" />
+<img width="2541" height="1775" alt="cluster_visualization" src="https://github.com/user-attachments/assets/5d3e08ab-3629-4e6b-9e5e-ef9cf0b060bd" />
 
 ---
 
@@ -90,7 +93,7 @@ This repository contains solutions for the **DSA2040 Practical Exam**, organized
 - **KNN**:
   - More cautious probability estimates — better for uncertainty handling
 
-📌 ![decision_boundaries.png](attachment:ed236624-4956-4ec0-b5e0-fcf0f1aab5f1.png)
+<img width="4171" height="1774" alt="decision_boundaries" src="https://github.com/user-attachments/assets/a19526eb-1828-4b8b-8a87-59ec0d552d78" />
 
 #### Association Rule Mining
 - **Data**: 30 synthetic grocery transactions
