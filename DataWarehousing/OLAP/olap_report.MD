@@ -14,7 +14,7 @@ Other countries contribute substantially less to overall revenue.
 **Insights:**
 - **Market Focus:** The UK dominates sales, making it the prime target for marketing and inventory strategies.
 - **Regional Opportunities:** While markets like the Netherlands and Germany show potential, they are much smaller compared to the UK.
-
+![Top-Selling Countries](visualizations/top_countries_bar.png)
 ---
 
 ## 2️⃣ UK Monthly Sales Trend with Linear Trend
@@ -26,7 +26,7 @@ Sales peak during **Q4 (October–December)**, likely driven by **holiday shoppi
 - **Seasonality:** Strong Q4 sales suggest targeted promotions and stock adjustments could increase profitability.
 - **Marketing Timing:** Pre-holiday campaigns in **October and November** could further boost performance.
 
-![UK Monthly Sales Trend](visualizations/uk_monthly_sales_trend.png)
+![UK](visualizations/monthly_sales_trend.png)
 
 ---
 
@@ -40,7 +40,7 @@ Smaller markets like Australia and EIRE maintain stable but relatively low sales
 - **Quarterly Performance:** The UK sees a sharp spike in Q4 compared to other regions.
 - **Regional Variability:** Smaller markets show steady but low demand, which could be tapped into with targeted campaigns.
 
-![Sales by Country](visualization/sales_by_country.png)
+![Sales by Country and Quarter](visualizations/sales_by_quarter.png)
 ---
 
 ## 📌 Key Takeaways
@@ -63,4 +63,5 @@ Targeting high-performing markets, preparing for seasonal spikes, and optimizing
 1. **Target the UK Market:** Prioritize marketing and inventory for the UK, particularly in Q4.  
 2. **Expand Product Range:** Increase electronics offerings while exploring other profitable categories.  
 3. **Leverage Seasonality:** Use historical patterns to anticipate demand and adjust strategies accordingly.  
+
 
