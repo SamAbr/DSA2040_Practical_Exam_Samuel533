@@ -1,13 +1,6 @@
-2025-08-12 17:30:37,011 - INFO - ETL started
-2025-08-12 17:30:38,009 - INFO - Extraction: 541909 rows loaded from online_retail.csv
-2025-08-12 17:30:38,286 - INFO - Transformation: After removing missing values -> 406829 rows
-2025-08-12 17:30:38,339 - INFO - Transformation: After removing outliers -> 397884 rows
-2025-08-12 17:30:38,474 - INFO - Transformation: Latest invoice date is 2011-12-09 12:50:00, cutoff date is 2010-12-09 12:50:00
-2025-08-12 17:30:38,475 - INFO - Transformation: After last-year filter -> 384529 rows
-2025-08-12 17:30:38,580 - INFO - Transformation: Customer summary has 4277 rows
-2025-08-12 17:30:38,622 - INFO - Transformation: Time dimension has 16630 rows
-2025-08-12 17:30:41,845 - INFO - Loading: Inserted 384529 rows into SalesFact
-2025-08-12 17:30:41,846 - INFO - Loading: Inserted 4277 rows into CustomerDim
-2025-08-12 17:30:41,847 - INFO - Loading: Inserted 16630 rows into TimeDim
-2025-08-12 17:30:41,848 - INFO - ETL completed successfully
-
+2025-08-14 19:03:24,961 - INFO - Starting extraction
+2025-08-14 19:03:25,802 - INFO - Extracted 541909 records
+2025-08-14 19:03:26,747 - INFO - Starting transformation
+2025-08-14 19:03:33,202 - INFO - Transformation completed
+2025-08-14 19:03:47,774 - INFO - Starting loading
+2025-08-14 19:03:51,757 - INFO - Data successfully loaded
