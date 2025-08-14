@@ -28,15 +28,18 @@ Three key visualizations were generated and saved as high-resolution images:
 
 - **`elbow_curve.png`**:  
   Shows the within-cluster sum of squares (inertia) for k=1 to 10. The "elbow" at k=3 supports the choice of three clusters.
-  ![elbow_curve.png](attachment:d9720e19-76aa-4140-8de7-5623749c948e.png)
+ <img width="2371" height="1474" alt="elbow_curve" src="https://github.com/user-attachments/assets/9e9842c5-6c20-441e-80fc-c49e8e66ed8e" />
+
 
 - **`cluster_visualization.png`**:  
   Scatter plot of petal length vs. petal width, colored by predicted cluster. K-Means cleanly separates *setosa* but shows some overlap between *versicolor* and *virginica*, reflecting their biological similarity.
-  ![cluster_visualization.png](attachment:1ed0954f-b57b-4612-a8c2-f89386eaf102.png)
+  <img width="2541" height="1775" alt="cluster_visualization" src="https://github.com/user-attachments/assets/72453072-fc4d-48dc-88b5-1fff3848ff15" />
+
 
 - **`true_species_comparison.png`**:  
   Same plot with true species labels — used for qualitative comparison.
-![true_species_comparison.png](attachment:6f59915d-ab6f-4843-a424-f7f29805afb1.png)
+<img width="2542" height="1775" alt="true_species_comparison" src="https://github.com/user-attachments/assets/60957f68-9e17-4f29-af9f-957300a43690" />
+
 ## 💡 Analysis and Insights
 
 K-Means performed well in identifying the natural groupings in the Iris dataset. The high ARI score confirms that the algorithm successfully recovered species-like clusters without using labels. Misclassifications occurred mainly between *versicolor* and *virginica*, which have overlapping feature distributions — a known challenge in this dataset.
