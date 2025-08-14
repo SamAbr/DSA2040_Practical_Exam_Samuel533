@@ -40,8 +40,7 @@ Smaller markets like Australia and EIRE maintain stable but relatively low sales
 - **Quarterly Performance:** The UK sees a sharp spike in Q4 compared to other regions.
 - **Regional Variability:** Smaller markets show steady but low demand, which could be tapped into with targeted campaigns.
 
-![Sales by Country and Quarter](visualizations/sales_by_country_quarter.png)
-
+![Sales by Country](visualization/sales_by_country.png)
 ---
 
 ## 📌 Key Takeaways
@@ -64,3 +63,4 @@ Targeting high-performing markets, preparing for seasonal spikes, and optimizing
 1. **Target the UK Market:** Prioritize marketing and inventory for the UK, particularly in Q4.  
 2. **Expand Product Range:** Increase electronics offerings while exploring other profitable categories.  
 3. **Leverage Seasonality:** Use historical patterns to anticipate demand and adjust strategies accordingly.  
+
