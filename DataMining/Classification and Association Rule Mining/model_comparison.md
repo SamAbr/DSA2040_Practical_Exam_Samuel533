@@ -62,7 +62,8 @@ To assess stability, we ran **5-fold cross-validation** and compared average acc
 
 ### Decision Boundaries
 
-![Decision Boundaries](decision_boundaries.png)
+<img width="4171" height="1774" alt="decision_boundaries" src="https://github.com/user-attachments/assets/cb9c92c2-a752-49d9-b7ad-e4608e54dbb2" />
+
 
 ---
 
