@@ -26,7 +26,7 @@ Sales peak during **Q4 (October–December)**, likely driven by **holiday shoppi
 - **Seasonality:** Strong Q4 sales suggest targeted promotions and stock adjustments could increase profitability.
 - **Marketing Timing:** Pre-holiday campaigns in **October and November** could further boost performance.
 
-![UK](visualizations/monthly_sales_trend.png)
+<img width="800" height="500" alt="UK Monthly Sales Trend" src="visualizations/monthly_sales_trend.png" />
 
 ---
 
@@ -63,5 +63,6 @@ Targeting high-performing markets, preparing for seasonal spikes, and optimizing
 1. **Target the UK Market:** Prioritize marketing and inventory for the UK, particularly in Q4.  
 2. **Expand Product Range:** Increase electronics offerings while exploring other profitable categories.  
 3. **Leverage Seasonality:** Use historical patterns to anticipate demand and adjust strategies accordingly.  
+
 
 
